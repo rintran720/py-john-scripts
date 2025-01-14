@@ -1,0 +1,15 @@
+# John's Scripts Project
+
+## Overview
+
+John's Scripts is a collection of useful scripts designed to automate and simplify various tasks. This project aims to provide a set of tools that can be easily integrated into your workflow to enhance productivity.
+
+## Features
+
+- **Automation**: Scripts to automate repetitive tasks.
+- **Efficiency**: Tools designed to save time and effort.
+- **Flexibility**: Easily customizable to fit your specific needs.
+
+## Usage
+
+Each script is located in the `scripts` directory. You can run a script by navigating to the directory and executing it. For example:
